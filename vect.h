@@ -28,7 +28,7 @@ class vect
 	{
 		vec = "None";
 		x1 = 432124;	
-		F=hhh
+		F=h//я хочу конфлитов
 		x2 = 0;
 		y2 = 0;	
 	}
