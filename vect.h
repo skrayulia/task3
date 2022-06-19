@@ -27,8 +27,8 @@ class vect
 	vect()
 	{
 		vec = "None";
-		x1 = 434;	
-		x2 = 0;
+		x1 = 45698765;	
+		x2 = 544;
 		y2 = 0;	
 	}
 
